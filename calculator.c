@@ -14,5 +14,9 @@ int subtract(int p,int q)
 {
   return a-b;
 }
+int mul(int p,int q)
+{
+  return a*b;
+}
 
 }
